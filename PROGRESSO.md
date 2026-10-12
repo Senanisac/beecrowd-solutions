@@ -1,0 +1,46 @@
+
+# 🎯 Plano de Estudo - Engenharia da Computação UFAL
+
+## 👤 Perfil
+- Semestre: 5º (início do 3º ano)
+- Universidade: UFAL, Brasil
+- Nível: Intermediário
+- Linguagem principal: Python
+
+## 📅 Plano Geral
+- Semestres 5-6  → Fundamentos (Algoritmos, Git, Linux, POO)
+- Semestres 6-7  → Exploração das 4 áreas
+- Semestres 7-10 → Especialização + Portfolio
+
+## ✅ Progresso Beecrowd
+- [x] 1001 - Extremamente Básico
+- [x] 1002 - Área do Círculo
+- [x] 1003 - Soma Simples
+- [x] 1004 - Produto Simples
+- [x] 1005 - Média 1
+- [x] 1006 - Média 2
+- [x] 1007 - Diferença
+- [x] 1008 - Salário
+- [x] 1009 - Salário com Bônus
+- [x] 1010 - Cálculo Simples
+- [x] 1011 - Esfera
+
+## 💡 Lições Aprendidas
+- Sempre ler o enunciado até o fim antes de codificar
+- Formato de saída deve ser exato (espaços, pontos, vírgulas)
+- input().split() para múltiplos valores na mesma linha
+- f"{valor:.4f}" para casas decimais
+- Sempre comentar o código
+- Usar math.pi apenas se o enunciado não definir π
+
+## 🛠️ Git & GitHub
+- Git instalado e configurado no Windows
+- Chave SSH conectada ao GitHub
+- Repositório: github.com/Senanisac/beecrowd-solutions
+- Workflow dominado: git add . → git commit -m "" → git push
+
+## 📚 Próximos Passos
+- [ ] Problemas 1012-1050 no Beecrowd
+- [ ] Introdução a estruturas de dados (listas, dicionários)
+- [ ] Aprender Linux básico
+
