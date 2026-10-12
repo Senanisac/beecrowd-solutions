@@ -24,6 +24,7 @@
 - [x] 1009 - Salário com Bônus
 - [x] 1010 - Cálculo Simples
 - [x] 1011 - Esfera
+- [x] 1012 - Área
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
