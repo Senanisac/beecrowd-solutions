@@ -23,8 +23,13 @@
 - [x] 1008 - Salário
 - [x] 1009 - Salário com Bônus
 - [x] 1010 - Cálculo Simples
-- [x] 1011 - Esfera
+- [x] 1011 - Esfera 
 - [x] 1012 - Área
+- [x] 1013 - O Maior
+- [x] 1014 - Consumo
+- [x] 1015 - Distância Entre Dois Pontos
+- [x] 1016 - Distância 
+- [x] 1017 - Gasto de Combustível
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
