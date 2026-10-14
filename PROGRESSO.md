@@ -30,6 +30,7 @@
 - [x] 1015 - Distância Entre Dois Pontos
 - [x] 1016 - Distância 
 - [x] 1017 - Gasto de Combustível
+- [x] 1035 - Teste de Seleção 1
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
