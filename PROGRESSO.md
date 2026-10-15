@@ -34,6 +34,9 @@
 - [x] 1036 - Fórmula de Bhaskara
 - [x] 1037 - Intervalo 
 - [x] 1038 - Lanche
+- [x] 1040 - Média 3
+- [x] 1041 - Coordenadas de um Ponto
+- [x] 1042 - Sort Simples 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
