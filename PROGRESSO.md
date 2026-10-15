@@ -31,6 +31,9 @@
 - [x] 1016 - Distância 
 - [x] 1017 - Gasto de Combustível
 - [x] 1035 - Teste de Seleção 1
+- [x] 1036 - Fórmula de Bhaskara
+- [x] 1037 - Intervalo 
+- [x] 1038 - Lanche
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
