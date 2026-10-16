@@ -37,6 +37,9 @@
 - [x] 1040 - Média 3
 - [x] 1041 - Coordenadas de um Ponto
 - [x] 1042 - Sort Simples 
+- [x] 1043 - Triângulo 
+- [x] 1044 - Múltiplos 
+- [x] 1045 - Tipos de Triângulos 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
