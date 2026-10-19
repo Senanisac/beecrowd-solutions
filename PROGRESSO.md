@@ -42,6 +42,7 @@
 - [x] 1045 - Tipos de Triângulos 
 - [x] 1059 - Números Pares
 - [x] 1060 - Números Posotivos
+- [x] 1061 - Tempo de um Evento 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
