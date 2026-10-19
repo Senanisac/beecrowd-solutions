@@ -40,6 +40,7 @@
 - [x] 1043 - Triângulo 
 - [x] 1044 - Múltiplos 
 - [x] 1045 - Tipos de Triângulos 
+- [x] 1059 - Números Pares
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
