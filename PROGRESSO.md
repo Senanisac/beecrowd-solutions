@@ -45,6 +45,7 @@
 - [x] 1061 - Tempo de um Evento 
 - [x] 1064 - Positivos e Médias
 - [x] 1065 - Pares entre Cinco Números  
+- [x] 1066 - Pares, Ímpares, Positivos e Negativos 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
