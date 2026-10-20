@@ -43,6 +43,7 @@
 - [x] 1059 - Números Pares
 - [x] 1060 - Números Posotivos
 - [x] 1061 - Tempo de um Evento 
+- [x] 1064 - Positivos e Médias 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
