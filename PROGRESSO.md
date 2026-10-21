@@ -46,6 +46,8 @@
 - [x] 1064 - Positivos e Médias
 - [x] 1065 - Pares entre Cinco Números  
 - [x] 1066 - Pares, Ímpares, Positivos e Negativos 
+- [x] 1067 - Números Ímpares
+- [x] 1180 - Menor e Posição
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
