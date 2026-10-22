@@ -50,6 +50,7 @@
 - [x] 1067 - Números Ímpares
 - [x] 1180 - Menor e Posição
 - [x] 1181 - Linha na Matriz
+- [x] 1182 - Coluna na Matriz 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
