@@ -12,7 +12,9 @@ for i in range(12):
         linha.append(valor)
     matriz.append(linha)
 
+#recuperar os valores de uma linha
 linha = matriz[numero]
+
 soma = sum(linha)
 
 if cara == "S":
