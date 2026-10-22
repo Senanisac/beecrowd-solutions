@@ -49,6 +49,7 @@
 - [x] 1066 - Pares, Ímpares, Positivos e Negativos 
 - [x] 1067 - Números Ímpares
 - [x] 1180 - Menor e Posição
+- [x] 1181 - Linha na Matriz
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
