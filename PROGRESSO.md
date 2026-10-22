@@ -1,4 +1,3 @@
-
 # 🎯 Plano de Estudo - Engenharia da Computação UFAL
 
 ## 👤 Perfil
@@ -23,35 +22,35 @@
 - [x] 1008 - Salário
 - [x] 1009 - Salário com Bônus
 - [x] 1010 - Cálculo Simples
-- [x] 1011 - Esfera 
+- [x] 1011 - Esfera
 - [x] 1012 - Área
 - [x] 1013 - O Maior
 - [x] 1014 - Consumo
 - [x] 1015 - Distância Entre Dois Pontos
-- [x] 1016 - Distância 
+- [x] 1016 - Distância
 - [x] 1017 - Gasto de Combustível
-- [x] 1020 - Idade em Dias 
+- [x] 1020 - Idade em Dias
 - [x] 1035 - Teste de Seleção 1
 - [x] 1036 - Fórmula de Bhaskara
-- [x] 1037 - Intervalo 
+- [x] 1037 - Intervalo
 - [x] 1038 - Lanche
 - [x] 1040 - Média 3
 - [x] 1041 - Coordenadas de um Ponto
-- [x] 1042 - Sort Simples 
-- [x] 1043 - Triângulo 
-- [x] 1044 - Múltiplos 
-- [x] 1045 - Tipos de Triângulos 
+- [x] 1042 - Sort Simples
+- [x] 1043 - Triângulo
+- [x] 1044 - Múltiplos
+- [x] 1045 - Tipos de Triângulos
 - [x] 1059 - Números Pares
-- [x] 1060 - Números Posotivos
-- [x] 1061 - Tempo de um Evento 
+- [x] 1060 - Números Positivos
+- [x] 1061 - Tempo de um Evento
 - [x] 1064 - Positivos e Médias
-- [x] 1065 - Pares entre Cinco Números  
-- [x] 1066 - Pares, Ímpares, Positivos e Negativos 
+- [x] 1065 - Pares entre Cinco Números
+- [x] 1066 - Pares, Ímpares, Positivos e Negativos
 - [x] 1067 - Números Ímpares
 - [x] 1180 - Menor e Posição
 - [x] 1181 - Linha na Matriz
-- [x] 1182 - Coluna na Matriz 
-- [x] 1183 - Acima da Diagonal Principal 
+- [x] 1182 - Coluna na Matriz
+- [x] 1183 - Acima da Diagonal Principal
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
@@ -60,6 +59,15 @@
 - f"{valor:.4f}" para casas decimais
 - Sempre comentar o código
 - Usar math.pi apenas se o enunciado não definir π
+- map(float/int, input().split()) para conversão rápida
+- sorted() e sort() para ordenação
+- List comprehension: [expr for i in range(n)]
+- Matrizes 2D: matriz[i][j]
+- min(), max(), sum(), index() para listas
+- // divisão inteira, % resto da divisão
+- import sys / for linha in sys.stdin para N entradas
+- Verificar condições de erro ANTES de calcular
+- Contador único para verificar parênteses balanceados
 
 ## 🛠️ Git & GitHub
 - Git instalado e configurado no Windows
@@ -68,7 +76,8 @@
 - Workflow dominado: git add . → git commit -m "" → git push
 
 ## 📚 Próximos Passos
-- [ ] Problemas 1012-1050 no Beecrowd
-- [ ] Introdução a estruturas de dados (listas, dicionários)
+- [ ] Problemas 1184, 1185, 1186 no Beecrowd
+- [ ] Teoria sobre funções (def)
 - [ ] Aprender Linux básico
+- [ ] Introdução a POO (Programação Orientada a Objetos)
 
