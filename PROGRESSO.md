@@ -55,6 +55,9 @@
 - [x] 1185 - Acima da Diagonal Secundária
 - [x] 1186 - Abaixo da Diagonal Secundária
 - [x] 1187 - Área Superior
+- [x] 1188 - Área Inferior 
+- [x] 1189 - Área Esquerda
+- [x] 1189 - Área Direita 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
