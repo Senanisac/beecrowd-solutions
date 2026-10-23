@@ -51,6 +51,9 @@
 - [x] 1181 - Linha na Matriz
 - [x] 1182 - Coluna na Matriz
 - [x] 1183 - Acima da Diagonal Principal
+- [x] 1183 - Abaixo da Diagonal Principal
+- [x] 1185 - Acima da Diagonal Secundária
+- [x] 1186 - Abaixo da Diagonal Secundária
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
