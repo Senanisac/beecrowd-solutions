@@ -27,4 +27,5 @@ if caractere == "S":
     print(f"{soma:.1f}")
 elif caractere == "M":
     media = soma / 66
+    print(f"{media:.1f}")
 
