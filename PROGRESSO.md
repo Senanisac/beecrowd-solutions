@@ -48,6 +48,8 @@
 - [x] 1066 - Pares, Ímpares, Positivos e Negativos
 - [x] 1067 - Números Ímpares
 - [x] 1172 - Substituição em Vetor I
+- [x] 1173 - Preenchimento de Vetor I
+- [x] 1174 - Seleçao em Vetor I
 - [x] 1180 - Menor e Posição
 - [x] 1181 - Linha na Matriz
 - [x] 1182 - Coluna na Matriz
