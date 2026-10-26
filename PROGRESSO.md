@@ -57,7 +57,8 @@
 - [x] 1187 - Área Superior
 - [x] 1188 - Área Inferior 
 - [x] 1189 - Área Esquerda
-- [x] 1189 - Área Direita 
+- [x] 1190 - Área Direita 
+- [x] 1192 - O jogo Matemático de Paula 
 
 ## 💡 Lições Aprendidas
 - Sempre ler o enunciado até o fim antes de codificar
