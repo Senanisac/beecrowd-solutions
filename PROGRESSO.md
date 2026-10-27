@@ -51,6 +51,9 @@
 - [x] 1173 - Preenchimento de Vetor I
 - [x] 1174 - Seleçao em Vetor I
 - [x] 1175 - Troca em Vetor I
+- [x] 1176 - Fibonacci em Vetor 
+- [x] 1177 - Preenchimento de Vetor II
+- [x] 1178 - Preenchimento de Vetor III
 - [x] 1180 - Menor e Posição
 - [x] 1181 - Linha na Matriz
 - [x] 1182 - Coluna na Matriz
