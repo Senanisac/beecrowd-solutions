@@ -30,6 +30,7 @@
 - [x] 1016 - Distância
 - [x] 1017 - Gasto de Combustível
 - [x] 1020 - Idade em Dias
+- [x] 1021 - Notas e Moedas
 - [x] 1035 - Teste de Seleção 1
 - [x] 1036 - Fórmula de Bhaskara
 - [x] 1037 - Intervalo
